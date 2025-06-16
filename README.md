@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Luiz1n98kurz
-- 👀 I’m interested in Games (souls like and milsins)
-- 🌱 I’m currently learning Programation
-- 📫 How to reach: instagram @luiz98kurz
-- ⚡ Fun fact: sou pobre 
+aoba, sou Luiz Felipe de Angeli
+interessado em musica, jogos (fps, souls likes, indis e qualquer coisa que me de bons momentos)
+tentando tankar a escola
+futuro carpinteiro
 
 <!---
 Luiz1n98kurz/Luiz1n98kurz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
